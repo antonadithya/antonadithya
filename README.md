@@ -8,7 +8,7 @@
 </p>
 
 <p>I am a front-end developer, I'm a Competitive Programmer, I also MERN Stuck Developer.</p>
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5zZHBqN255OXMxbXA0aXcwZzBhdXRsNmpscmwzZXNiZDU0NDFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
+<img align="right src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5zZHBqN255OXMxbXA0aXcwZzBhdXRsNmpscmwzZXNiZDU0NDFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
 <ul>
   <li>👋 Hi, I’m @MrAnton</li>
   <li>❤️ I love Creating websites and Programming in JavaScript.</li>
