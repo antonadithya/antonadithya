@@ -14,7 +14,7 @@
   <li>❤️ I love Creating websites and Programming in JavaScript.</li>
   <li>🌱 I’m currently learning Full Stuck Development, HTML, CSS, JS,Node and MongoDB.</li>
   <li>💼 I'm a Front end developer at React js.</li>
-  <li>🧐 My Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>🧐 My Portfolio Website, </li>
 </ul>
 
 #### A little more about me
