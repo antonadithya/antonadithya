@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5zZHBqN255OXMxbXA0aXcwZzBhdXRsNmpscmwzZXNiZDU0NDFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
+
 <ul>
   <li>👋 Hi, I’m Anton Adithya</li>
   <li>❤️ I love creating websites and Software.</li>
@@ -19,7 +19,7 @@ const Me = {
   technologies: {
       frontend: ["HTML", "CSS", "JS", "React",  "tailwind", "Electron"],
       backend: ["Node", "Express",  ],
-      database: ["Supabase", "PostgreSQL"]
+      database: ["Supabase", "PostgreSQL"],
       build_tool: ["Vite"]
   }
 }
