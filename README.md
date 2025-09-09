@@ -4,23 +4,22 @@
 
 </div>
 
-<p>I am a Web developer, and I am also  a Competitive Programmer.</p>
 <img align="right src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5zZHBqN255OXMxbXA0aXcwZzBhdXRsNmpscmwzZXNiZDU0NDFpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vrxxqQbyRxYi6scCjT/giphy.gif">
 <ul>
-  <li>👋 Hi, I’m @MrAnton</li>
-  <li>❤️ I love creating websites and Programming in JavaScript.</li>
-  <li>🌱 I’m currently working as a Full Stack Developer with HTML, CSS, JS, Node, and MongoDB </li>
+  <li>👋 Hi, I’m Anton Adithya</li>
+  <li>❤️ I love creating websites and Software.</li>
+  <li>🌱 I’m currently working as a Full Stack & Web3 developer</li>
 </ul>
 
 #### A little more about me
-```javascript
+```JavaScript
 const Me = {
-  pronouns: "He" | "Him",
   code: ["JavaScript",  "HTML", "CSS", "Node"],
-  askMeAbout: ["web dev", "frontend dev", "UI/UX", "Web App"],
+  askMeAbout: ["web dev", "frontend dev", "UI/UX", "Web App",""],
   technologies: {
-      frontend: ["HTML", "CSS", "JS", "React", "Bootstrap", "tailwind"],
-      backend: ["Node", "Express", "MongoDB"],
+      frontend: ["HTML", "CSS", "JS", "React",  "tailwind", "Electron"],
+      backend: ["Node", "Express",  ],
+      database: ["Supabase", "PostgreSQL"]
       build_tool: ["Vite"]
   }
 }
